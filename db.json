@@ -2,7 +2,7 @@
     "chara": [
         {
             "id": 1,
-            "image1": "https://static.wikia.nocookie.net/yakusokunoneverland/images/1/11/Emma_2047_anime.png/revision/latest?cb=20210219012121",
+            "image1": "https://static.wikia.nocookie.net/yakusokunoneverland/images/1/11/Emma_2047_anime.png/revision/latest?cb=20210219012121.jpg",
             "name": "Emma",
             "gender": "Female",
             "date": "August 22, 2034 (Leo)",
@@ -14,7 +14,7 @@
         },
         {
             "id": 2,
-            "image1": "https://static.wikia.nocookie.net/yakusokunoneverland/images/c/c6/Norman_2047_Anime.png/revision/latest?cb=20210206222600",
+            "image1": "https://static.wikia.nocookie.net/yakusokunoneverland/images/c/c6/Norman_2047_Anime.png/revision/latest?cb=20210206222600.jpg",
             "name": "Norman",
             "gender": "Male",
             "date": "March 21, 2034",
@@ -26,7 +26,7 @@
         },
         {
             "id": 3,
-            "image1": "https://static.wikia.nocookie.net/yakusokunoneverland/images/9/98/Ray_2047_anime.png/revision/latest?cb=20210219012143",
+            "image1": "https://static.wikia.nocookie.net/yakusokunoneverland/images/9/98/Ray_2047_anime.png/revision/latest?cb=20210219012143.jpg",
             "name": "Ray",
             "gender": "Male",
             "date": "January 15,2034 (Not actual)",
@@ -38,7 +38,7 @@
         },
         {
             "id": 4,
-            "image1": "https://static.wikia.nocookie.net/yakusokunoneverland/images/4/4f/Isabella_2047_anime.png/revision/latest?cb=20210320212403",
+            "image1": "https://static.wikia.nocookie.net/yakusokunoneverland/images/4/4f/Isabella_2047_anime.png/revision/latest?cb=20210320212403.jpg",
             "name": "Isabella",
             "gender": "Female",
             "date": "September 9, 2014",
